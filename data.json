@@ -1,8 +1,6 @@
-{
-  collections: [
-{
-id: 1,
-imgUrl: "https://github.com/arifkhri/deni-tailor-assets/blob/9d6685292984279674556858bffcd2aa586b032b/WhatsApp%20Image%20Nov%2012%202024%20(1).jpeg"
-}
-  ]
-}
+[
+  {
+    "id": 1,
+    "imgUrl": "https://github.com/arifkhri/deni-tailor-assets/blob/9d6685292984279674556858bffcd2aa586b032b/WhatsApp%20Image%20Nov%2012%202024%20(1).jpeg"
+  }
+]
